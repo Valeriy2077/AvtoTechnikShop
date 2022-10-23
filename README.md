@@ -1,0 +1,2 @@
+# AvtoTechnikShop
+Django shop
