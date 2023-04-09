@@ -1,2 +1,7 @@
-# AvtoTechnikShop
-Django shop
+# *AvtoTechnikShop*
+
+### Это дипломный проект — интернет магазин автозапчастей, который сделан на языке **Python** с использованием **Django**.
+
+
+
+
